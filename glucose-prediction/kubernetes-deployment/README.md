@@ -35,7 +35,7 @@ Spawn the services (one for each deployment)
 Spawn the ingress (one for all the services). The ingress will create a single entrypoint for all the services. Moreover, it can be associated to a registered domain, and some paths in it.
 
 ```sh
- kubectl apply -f service.yml
+ kubectl apply -f ingress.yml
 ```
 
 OR
