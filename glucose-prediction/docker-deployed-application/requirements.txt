@@ -1,0 +1,5 @@
+streamlit
+bokeh
+Pillow
+pandas
+numpy
